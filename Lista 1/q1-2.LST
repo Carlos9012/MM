@@ -1,0 +1,43 @@
+MPASM  5.03                            Q1-2.C   3-27-2023  11:09:54         PAGE  1
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+Error[108]  : Illegal character (
+)
+                      00001 
+unsigned char uni_seg, dez_seg, uni_min, dez_min, uni_hor, dez_hor;
+
+unsigned char converte_7seg[] =
+
+ 
+                               {
+        // hgfedcba
+        0b00111111, // zero
+        0b00000110, // um
+        0b0101101
+Error[129]  : Expected (END)
+Error[131]  : Processor type is undefined
+MPASM  5.03                            Q1-2.C   3-27-2023  11:09:54         PAGE  2
+
+
+SYMBOL TABLE
+  LABEL                             VALUE 
+
+
+
+MEMORY USAGE MAP ('X' = Used,  '-' = Unused)
+
+
+All other memory blocks unused.
+
+Program Memory Words Used:     0
+Program Memory Words Free:     1
+
+
+Errors   :     3
+Warnings :     0 reported,     0 suppressed
+Messages :     0 reported,     0 suppressed
+
+
